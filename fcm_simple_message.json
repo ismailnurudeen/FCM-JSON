@@ -1,5 +1,5 @@
 { 
-  "fcm_topic" : "simple_msg"
-  "simple_msg" : "You’ll never find your limits until you’ve gone too far. – Aron Ralston You must either modify your dreams or magnify your skills. – Jim Rohn We become what we think about. – Earl Nightingale"
-  "simple_msg_title" : "Monday Motivation"
+  "fcm_topic":"simple_msg",
+  "simple_msg":"You’ll never find your limits until you’ve gone too far. – Aron Ralston You must either modify your dreams or magnify your skills. – Jim Rohn We become what we think about. – Earl Nightingale",
+  "simple_msg_title":"Monday Motivation"
 }
