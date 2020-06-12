@@ -1,6 +1,6 @@
 { 
-  "fcm_topic" : "app_update"
-  "fcm_title" : "Exciting New Update",
-  "app_update" : "What's New? - Notifications | Improved Speed | Clean Icons | Bug Fixes"
-  "app_update_title" : "Version 3.0"
+  "fcm_topic": "app_update",
+  "fcm_title": "Exciting New Update",
+  "app_update": "What's New? - Notifications | Improved Speed | Clean Icons | Bug Fixes",
+  "app_update_title": "Version 3.0"
 }
